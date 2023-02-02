@@ -20,6 +20,7 @@ static void ConfigureServices(IServiceCollection services)
     services.Configure<AppSettings>(configuration.GetSection("App"));
 
     services.AddTransient<IBot, HorrorBot>();
+    services.AddTransient<IBot, PsychologyBot>();
     services.AddTransient<MyApp>();
 }
 

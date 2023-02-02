@@ -36,7 +36,7 @@ namespace TwitterBot
 
             _horrorIdeas = data["horrorIdeas"].ToObject<string[]>();
             _customPrompts = data["customHorrorPrompts"].ToObject<string[]>();
-            _customPrompts = data["fallbackHorrorImages"].ToObject<string[]>();
+            _fallbackImages = data["fallbackHorrorImages"].ToObject<string[]>();
 
             Client = new TwitterClient(_appSettings.ApiKey, _appSettings.ApiSecret, _appSettings.HorrorToken.Public, _appSettings.HorrorToken.Secret);
         }
