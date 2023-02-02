@@ -50,6 +50,8 @@ namespace TwitterBot
             {
                 Medias = { uploadedImage }
             });
+
+            _logger.LogInformation("Published horror tweet.");
         }
 
         public async Task<Result<string>> GenerateImage(string desc)

@@ -52,6 +52,8 @@ namespace TwitterBot
             {
                 Medias = { uploadedImage }
             });
+
+            _logger.LogInformation("Published psychology tweet.");
         }
 
         public async Task<Result<string>> GenerateImage(string desc)
