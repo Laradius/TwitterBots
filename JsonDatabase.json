@@ -424,6 +424,28 @@
     "A room with a powerful force that drains the life from everything it touches."
 
   ],
+  "fallbackHorrorImages": [
+    "A dilapidated mansion with shattered windows and a creaky front door that groans when opened.",
+    "An abandoned asylum with peeling wallpaper, rusted medical equipment, and eerie laughter echoing through the halls.",
+    "A dark, twisting labyrinth of tunnels beneath a sprawling city, filled with rats and the remains of those who dared to enter.",
+    "A decrepit hotel with flickering lights, strange noises coming from behind locked doors, and a ghostly presence that refuses to leave.",
+    "An overgrown graveyard with tilting headstones, creepy statues, and a feeling of being watched from the shadows.",
+    "A creepy carnival with rickety rides, clowns with sinister grins, and a feeling that something is not quite right.",
+    "An old, crumbling castle with towers reaching towards the sky, and a history of dark magic and sacrifice.",
+    "A creepy doll factory where the dolls seem to come alive at night, moving about on their own and whispering secrets to anyone who will listen.",
+    "A sinister sanatorium with flickering lights, strange smells, and patients who seem to have been forgotten by the outside world.",
+    "A creepy mansion with a sinister history, and a feeling that something is not quite right about the family who lives there.",
+    "A haunted forest with twisted trees, creepy animals, and the sounds of ghostly whispers carried on the wind.",
+    "An abandoned insane asylum with bloodstains on the floor and walls, and the sound of screams echoing through the hallways.",
+    "A spooky, old-fashioned carnival with strange performers and an air of danger lurking just beneath the surface.",
+    "An old, crumbling castle with hidden passageways, dark secrets, and the feeling that something evil is lurking within.",
+    "A creepy research facility with experiments gone wrong, strange noises coming from the basement, and the feeling that the scientists may have uncovered something they shouldn't have.",
+    "An abandoned hotel with creaking floors, flickering lights, and ghostly apparitions seen through the windows.",
+    "A dark, labyrinthine maze of tunnels beneath a city, filled with strange creatures, ancient relics, and the feeling of being watched from the shadows.",
+    "An old, decaying mansion with an eerie presence, and a feeling that the residents may not be quite human.",
+    "A creepy amusement park with rickety rides, strange sights, and a feeling that the patrons may not be safe.",
+    "An abandoned research facility with missing scientists, strange noises, and the feeling that something terrible was unleashed."
+  ],
   "customHorrorPrompts": [
     "Write existentially dreadful sentence.",
     "Write a depressing sentence.",

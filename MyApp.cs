@@ -26,7 +26,7 @@ namespace TwitterBot
         public async Task Run(string[] args)
 
         {
-            await _horrorBot.Client.Tweets.PublishTweetAsync("Hello world");
+            await _horrorBot.GenerateTweet();
             await Task.CompletedTask;
         }
     }
